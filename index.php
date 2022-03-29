@@ -11,7 +11,7 @@ include('./includes/nav.php');
 
 
 
-<div class="container-fluid welcome-effect">
+<div class="container welcome-effect">
     <div class="left-panel-home">
     <p>Welcome to our game app where you'll be able to keep a track of all the games you've played.🎮</p>
     </div>

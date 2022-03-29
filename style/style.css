@@ -6,6 +6,8 @@
 
 body {
   background-color: #aaaabc;
+  height: 100vh;
+  width: 100vh;
 }
 
 /* NAVBAR */
@@ -25,10 +27,13 @@ nav a {
 .welcome-effect {
   display: flex;
   justify-content: center;
+  width: 80%;
+  height: 80%;
 }
 
 .left-panel-home {
-  width: 40%;
+  width: 50%;
+  height: 100%;
   background-color: #dd495b;
   margin: 5% 0 5% 5%;
 }
@@ -39,7 +44,8 @@ nav a {
 }
 
 .right-panel-home {
-  width: 40%;
+  width: 50%;
+  height: 100%;
   background-color: #0047ab;
   margin: 5% 5% 5% 0;
   display: flex;

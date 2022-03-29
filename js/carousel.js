@@ -7,6 +7,7 @@ let carousel_pictures = [
   "./images/red_dead_redemption.jpg",
   "./images/fallen_order.jpg",
   "./images/the_last_of_us.png",
+  "./images/ufc4.png",
 ];
 
 let counter = 1;
