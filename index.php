@@ -11,13 +11,13 @@ include('./includes/nav.php');
 
 
 
-<div class="container welcome-effect">
+<div class="container-fluid welcome-effect">
     <div class="left-panel-home">
     <p>Welcome to our game app where you'll be able to keep a track of all the games you've played.🎮</p>
     </div>
 
     <div class="right-panel-home">
-    <img src="./images/horizon_zero_dawn.jpg" class="img-fluid carousel" alt="Horizon zero dawn's poster">
+    <img src="./images/horizon_zero_dawn.jpg" class=" carousel" alt="Horizon zero dawn's poster">
     </div>
 </div>
 

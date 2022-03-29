@@ -10,7 +10,7 @@
           <a class="nav-link" aria-current="page" href="#">My Games</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Add Game</a>
+          <a class="nav-link" href="./add_game.php">Add Game</a>
         </li>
       </ul>
     </div>
